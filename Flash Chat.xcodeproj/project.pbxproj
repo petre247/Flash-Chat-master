@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0292EF76E83839C74F4A2C07 /* Pods_Flash_Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFB4B112F337A46E3D4BCABE /* Pods_Flash_Chat.framework */; };
-		5FC448212065ECAA00093494 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5FC448202065ECAA00093494 /* GoogleService-Info.plist */; };
+		5F006A3D206E9D0E004E6C92 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F006A3C206E9D0E004E6C92 /* GoogleService-Info.plist */; };
 		6321A9C31B94EBA10053D2E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6321A9C21B94EBA10053D2E7 /* Images.xcassets */; };
 		6321A9E21B94EBE70053D2E7 /* CustomMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6321A9DB1B94EBE70053D2E7 /* CustomMessageCell.swift */; };
 		6321A9E51B94EBE70053D2E7 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6321A9DE1B94EBE70053D2E7 /* MessageCell.xib */; };
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1A298C068479C92B224384ED /* Pods-Flash Chat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flash Chat.release.xcconfig"; path = "Pods/Target Support Files/Pods-Flash Chat/Pods-Flash Chat.release.xcconfig"; sourceTree = "<group>"; };
-		5FC448202065ECAA00093494 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5F006A3C206E9D0E004E6C92 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../.Trash/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6321A9B61B94EBA10053D2E7 /* Flash Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flash Chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6321A9BA1B94EBA10053D2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6321A9C21B94EBA10053D2E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		6321A9B91B94EBA10053D2E7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				5FC448202065ECAA00093494 /* GoogleService-Info.plist */,
+				5F006A3C206E9D0E004E6C92 /* GoogleService-Info.plist */,
 				6321A9BA1B94EBA10053D2E7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -216,7 +216,7 @@
 			files = (
 				63E28B291B9A336600FBF6E0 /* Main.storyboard in Resources */,
 				6321A9C31B94EBA10053D2E7 /* Images.xcassets in Resources */,
-				5FC448212065ECAA00093494 /* GoogleService-Info.plist in Resources */,
+				5F006A3D206E9D0E004E6C92 /* GoogleService-Info.plist in Resources */,
 				63EBB3051D98004B004175E5 /* LaunchScreen.storyboard in Resources */,
 				6321A9E51B94EBE70053D2E7 /* MessageCell.xib in Resources */,
 			);
